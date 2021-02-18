@@ -14,6 +14,6 @@ Settings for Array size, speed and one of the following sorting algorithms:
 
 
 View project at https://sorting-algorithms.glitch.me/
-(website sometimes needs to load to node.js)
+(website sometimes needs to load node.js)
 
 Currently not designed for mobile
