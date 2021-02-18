@@ -1,0 +1,60 @@
+body {
+    cursor: all-scroll;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0f0f0f;
+    color: white;
+    margin: 0;
+    overflow: hidden;
+}
+
+#menue {
+    padding: 5px;
+    cursor: default;
+}
+
+
+.display{
+    float: right;
+}
+
+canvas {
+    color: white;
+    background-color: yellow;
+    font-size: 50px;
+}
+
+#info {
+    color:white;
+	position: absolute;
+	text-align: center;
+    display:block;
+    text-transform: uppercase;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 50px;
+}
+
+#comparisonDisplay{
+    float: right;
+}
+
+.button{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
+    margin: 0px;
+    padding: 3px;
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+
+    -ms-user-select: None;
+    -moz-user-select: None;
+    -webkit-user-select: None;
+    user-select: None;
+}
