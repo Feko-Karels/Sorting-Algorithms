@@ -14,3 +14,5 @@ Settings for Array size, speed and one of the following sorting algorithms:
 
 
 View project at https://sorting-algorithms.glitch.me/
+
+Currently not designed for mobile
