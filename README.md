@@ -2,7 +2,7 @@
 
 A website that visualizes sorting algorithms. 
 
-Settings for Array size, speed and one of the following sorting algorithms:
+Settings for Array size, speed and one of the following sorting algorithms
 Quick Sort
 Merge Sort
 Heap Sort
