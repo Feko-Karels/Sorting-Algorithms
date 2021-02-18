@@ -12,4 +12,5 @@ Settings for Array size, speed and one of the following sorting algorithms:
 
 -Bubble Sort
 
+
 View project at https://sorting-algorithms.glitch.me/
