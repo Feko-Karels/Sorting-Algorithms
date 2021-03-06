@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-A website that visualizes sorting algorithms. 
+A website that visualizes sorting algorithms in 3D using three.js. 
 
 Settings for Array size, speed and one of the following sorting algorithms:
 
